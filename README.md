@@ -17,7 +17,7 @@ This project uses DHT, SPI, Adafruit_GFX, Max72xxPanel and virtualbotixRTC libra
 
 ## Case
 
-I printed this [https://www.thingiverse.com/thing:4886633](awesome 3D Case by CrazyIndiana). The final touches are work in progress ;)
+I printed this [awesome 3D Case by CrazyIndiana](https://www.thingiverse.com/thing:4886633). The final touches are work in progress ;)
 
  
 ![alt text](/assets/clock_with_3d_case.jpg)
